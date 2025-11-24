@@ -1,0 +1,18 @@
+{
+  "vibration": true,
+  "vibration_intensity": 100.0,
+  "sound": true,
+  "volume_intensity": 100.0,
+  "alerts_enabled": [
+    "bicycle",
+    "dog",
+    "door",
+    "escalator",
+    "person",
+    "stairs",
+    "traffic_light"
+  ],
+  "min_distance": 0.5,
+  "max_distance": 5.0,
+  "timestamp": 1763272670
+}

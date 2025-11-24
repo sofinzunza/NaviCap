@@ -1,0 +1,12 @@
+[Unit]
+Description=NaviCap BLE-only setup (no pairing, advertising on, alias NaviCap)
+After=bluetooth.service dbus.service
+Wants=bluetooth.service
+
+[Service]
+Type=oneshot
+ExecStart=/home/pi/navicap/navicap_bleonly.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

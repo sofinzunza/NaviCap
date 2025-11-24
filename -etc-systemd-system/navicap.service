@@ -1,0 +1,24 @@
+[Unit]
+Description=NaviCap BLE GATT server (venv + logs)
+After=navicap-bleonly.service
+Wants=navicap-bleonly.service
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+WorkingDirectory=/home/pi/navicap
+Environment=PYTHONUNBUFFERED=1
+ConditionPathExists=/home/pi/navicap/ble_server.py
+
+# Resiliencia sin loop infinito
+Restart=on-failure
+RestartSec=5
+StartLimitIntervalSec=120
+StartLimitBurst=3
+
+ExecStart=/home/pi/navicap/run_ble.sh
+SyslogIdentifier=navicap
+
+[Install]
+WantedBy=multi-user.target

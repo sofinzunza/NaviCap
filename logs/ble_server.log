@@ -1,0 +1,135 @@
+========== 2025-11-15T03:02:46-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Desconectado: 5B:E2:2E:5E:45:E3
+========== 2025-11-15T03:03:48-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 55:0C:C3:F7:8E:94
+[BLE] notify ON para obstaculos
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+[BLE] Desconectado: 55:0C:C3:F7:8E:94
+[BLE] notify OFF para obstaculos
+========== 2025-11-15T03:05:29-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T03:07:02-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 55:0C:C3:F7:8E:94
+[BLE] notify ON para obstaculos
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+[BLE] notify OFF para obstaculos
+[BLE] Desconectado: 55:0C:C3:F7:8E:94
+========== 2025-11-15T03:44:25-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 79:10:8E:81:A9:07
+[BLE] notify ON para obstaculos
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+========== 2025-11-15T03:44:33-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] notify ON para obstaculos
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+========== 2025-11-15T03:50:22-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T17:46:20-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T17:52:26-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 61:71:41:E2:8F:71
+[BLE] notify ON para obstaculos
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 50.0, 'sound': True, 'volume_intensity': 50.0, 'alerts_enabled': ['door', 'escalator', 'motorcycle', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+========== 2025-11-15T19:42:17-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T19:48:39-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T20:03:29-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 47:14:04:C9:DD:13
+========== 2025-11-15T20:22:45-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T20:26:27-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-15T23:13:30-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-16T00:28:10-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Watcher de obstaculos activo en: /home/pi/navicap/obstacle.json
+[BLE] Watcher de config activo en: /home/pi/navicap/config.json
+[BLE] publish_obstacle: no hay central suscrito aun
+
+[BLE] Saliendo...
+========== 2025-11-16T00:34:57-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Watcher de obstaculos activo en: /home/pi/navicap/obstacle.json
+[BLE] Watcher de config activo en: /home/pi/navicap/config.json
+[BLE] publish_obstacle: no hay central suscrito aun
+
+[BLE] Saliendo...
+========== 2025-11-16T01:38:56-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Watcher de obstaculos activo en: /home/pi/navicap/obstacle.json
+[BLE] Watcher de config activo en: /home/pi/navicap/config.json
+[BLE] publish_obstacle: no hay central suscrito aun
+
+[BLE] Saliendo...
+========== 2025-11-16T01:59:38-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] Conectado: 75:2E:71:06:2C:2C
+[BLE] notify ON para obstaaulos
+[BLE] Obstaculos ACTIVADOS: bicycle, dog
+[BLE] Obstaculos DESACTIVADOS: motorcycle
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 100.0, 'sound': True, 'volume_intensity': 100.0, 'alerts_enabled': ['bicycle', 'dog', 'door', 'escalator', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+========== 2025-11-16T02:34:36-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+[BLE] notify ON para obstaculos
+[BLE] Obstaculos ACTIVADOS: bicycle, dog
+[BLE] Obstaculos DESACTIVADOS: motorcycle
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 100.0, 'sound': True, 'volume_intensity': 100.0, 'alerts_enabled': ['bicycle', 'dog', 'door', 'escalator', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+[BLE] Config recibida y guardada en /home/pi/navicap/config.json: {'vibration': True, 'vibration_intensity': 100.0, 'sound': True, 'volume_intensity': 100.0, 'alerts_enabled': ['bicycle', 'dog', 'door', 'escalator', 'person', 'stairs', 'traffic_light'], 'min_distance': 0.5, 'max_distance': 5.0}
+========== 2025-11-16T03:13:43-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
+========== 2025-11-18T19:10:51-03:00 ==========
+[wrapper] start; python: Python 3.11.2
+[BLE] Publicando Peripheral en D8:3A:DD:41:0D:3A con nombre 'NaviCap'
+Advertisement registered
